@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is **Camila Belén Carlocchia**, I'm a Informatics Engineering student at the Universidad de Buenos Aires in Argentina, and a Fullstack Jr. Developer at Arsat.
+
+- 🔭 I’m currently working on a mobile app using AndroidStudio.
+- 🌱 I’m currently learning AndroidStudio, and also frontend stuff (like html5, css, reactjs).
+- 😄 Pronouns: she/her.- 
+
 
 <!--
 **ccarlocchia/ccarlocchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
