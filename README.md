@@ -3,7 +3,7 @@
 My name is **Camila Belén Carlocchia**, I'm a Informatics Engineering student at the Universidad de Buenos Aires in Argentina, and a Fullstack Developer at Arsat.
 
 - 🔭 I’m currently working on a mobile app using AndroidStudio.
-- 🌱 I’m currently learning AndroidStudio, and also frontend stuff (like html5, css, reactjs).
+- 🌱 I’m currently learning Flask, and also frontend stuff (like html5, css, reactjs).
 - 😄 Pronouns: she/her.-
 - 🛠️ I work with **Python** (FastAPI), C, Reactjs, Javascript/HTML5/CSS & Java.
 
