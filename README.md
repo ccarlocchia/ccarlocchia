@@ -1,11 +1,11 @@
 ### Hello there 👋
 
-My name is **Camila Belén Carlocchia**, I'm a Informatics Engineering student at the Universidad de Buenos Aires in Argentina, and a Fullstack Developer at Xablu.
+My name is **Camila Belén Carlocchia**, I'm a Informatics Engineering student and Ssr Fullstack Developer🤓.
 
-- 🔭 I’m currently working with Python.
-- 🌱 I’ve just started working at this new position so I'm settling in and learning how they do things here.
+- 🔭 I’m currently working with Js, Java, Typescript and Kotlin.
+- 🌱 I'm a Ssr since August 2023, I'm really proud of the path I've taken and I'm looking forward to keep going upwards.
 - 😄 Pronouns: she/her.-
-- 🛠️ I work with **Python** (FastAPI), C, Reactjs, Javascript/HTML5/CSS & Java.
+- 🛠️ My stack varies between many languages & frameworks, I always like to learn something new.
 
 
 <!--
