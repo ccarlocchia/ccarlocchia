@@ -4,7 +4,7 @@ My name is **Camila Belén Carlocchia**, and I'm a Ssr Fullstack Developer🤓.
 
 - 🔭 I’m currently working with Python.
 - 🌱 I'm a Ssr since August 2023, I'm really proud of the path I've taken and I'm looking forward to keep going upwards.
-- 😄 Pronouns: she/her.-
+- 😄 Pronouns: she/her.
 - 🛠️ My stack varies between many languages & frameworks, I always like to learn something new.
 
 
